@@ -37,7 +37,7 @@ Here are the core concepts you need to master:
 - **Introduction to Machine Learning**: [Fast.ai's Practical Deep Learning for Coders](https://course.fast.ai/)
 - **Statistics for Data Science**: [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability)
 - **Python Documentation**: [The Python Standard Library](https://docs.python.org/3/library/)
-- **PowerBi**: [PowerBi course](https://youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX&si=jrae4gFuZJX25zf-)
+- **PowerBi**: [PowerBi course](https://youtu.be/8XoDVwWdaqI?si=7qLJZRn2Uk1m91a5)
 
 ## Books
 
